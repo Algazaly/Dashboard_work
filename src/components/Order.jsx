@@ -7,8 +7,12 @@ const Order = () => {
       <p>Costumer Name</p>
       <p>Product Quantity</p>
       <p>Amount</p>
-      <p>Created Act</p>
+      <p>Created At</p>
       <p>Status</p>
+       <p>Order Number </p>
+      <p>Costumer Name</p>
+      <p>Product Quantity</p>
+      <p>Product Quantity</p>
     </div>
   )
 }
